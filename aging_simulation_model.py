@@ -30,7 +30,7 @@ while telomere_length > critical_length:
 telomere_over_time.append(telomere_length)
 
 # Display results on the Streamlit app (not the console!)
-st.subheader("Simulation Results")
+st.subheader("Simulation Result")
 st.write(f"With a stress level of **{stress_level}**, the cell can divide **{divisions}** times before senescence.")
 
 # Plotting results
