@@ -1,5 +1,7 @@
 # 🧬 Cellular Aging Simulation
 
+🔗 **Live Demo:** [Click here to try the simulation on Streamlit](https://antiagingsimulation.streamlit.app/)
+
 This project simulates **telomere shortening** in cell DNA based on **stress level** using Python.
 
 It measures the **telomere length** over the number of **cell divisions** and plots the following 3 graphs:
