@@ -12,6 +12,8 @@ It measures the **telomere length** over the number of **cell divisions** and pl
 
 The graphs show how **oxidative stress levels** influence the telomere length as well as the health state of the multi-cellular organism.
 
+Use the **slider** to adjust the oxidative stress level concentrations in the cells.
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
