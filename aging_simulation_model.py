@@ -179,7 +179,6 @@ for _ in range(cycles):
     health_stats[state].append(counts[state])
 
 
-st.write(len(health_stats["Healthy"]))
 
 # Plot Time Evolution
 plt.figure()
